@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\04.Emails\04.Emails\bin\Debug\04.Emails.exe.config
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\04.Emails\04.Emails\bin\Debug\04.Emails.exe
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\04.Emails\04.Emails\bin\Debug\04.Emails.pdb
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\04.Emails\04.Emails\obj\Debug\04.Emails.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\04.Emails\04.Emails\obj\Debug\04.Emails.exe
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\04.Emails\04.Emails\obj\Debug\04.Emails.pdb

@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\04.NumbersInReversedOrder\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\04.NumbersInReversedOrder\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\04.NumbersInReversedOrder\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\04.NumbersInReversedOrder\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\04.NumbersInReversedOrder\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.pdb

@@ -1,0 +1,6 @@
+F:\Programming\Vowels\Vowels\bin\Debug\Vowels.exe.config
+F:\Programming\Vowels\Vowels\bin\Debug\Vowels.exe
+F:\Programming\Vowels\Vowels\bin\Debug\Vowels.pdb
+F:\Programming\Vowels\Vowels\obj\Debug\Vowels.csprojResolveAssemblyReference.cache
+F:\Programming\Vowels\Vowels\obj\Debug\Vowels.exe
+F:\Programming\Vowels\Vowels\obj\Debug\Vowels.pdb

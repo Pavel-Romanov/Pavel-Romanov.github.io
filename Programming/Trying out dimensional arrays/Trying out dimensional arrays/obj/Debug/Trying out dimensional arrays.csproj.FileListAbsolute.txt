@@ -1,0 +1,6 @@
+F:\Programming\Trying out dimensional arrays\Trying out dimensional arrays\bin\Debug\Trying out dimensional arrays.exe.config
+F:\Programming\Trying out dimensional arrays\Trying out dimensional arrays\bin\Debug\Trying out dimensional arrays.exe
+F:\Programming\Trying out dimensional arrays\Trying out dimensional arrays\bin\Debug\Trying out dimensional arrays.pdb
+F:\Programming\Trying out dimensional arrays\Trying out dimensional arrays\obj\Debug\Trying out dimensional arrays.csprojResolveAssemblyReference.cache
+F:\Programming\Trying out dimensional arrays\Trying out dimensional arrays\obj\Debug\Trying out dimensional arrays.exe
+F:\Programming\Trying out dimensional arrays\Trying out dimensional arrays\obj\Debug\Trying out dimensional arrays.pdb

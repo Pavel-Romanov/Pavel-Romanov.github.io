@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\15.Neighbour Wars\15.Neighbour Wars\bin\Debug\15.Neighbour Wars.exe.config
+F:\SoftUni Loops and Conditional\15.Neighbour Wars\15.Neighbour Wars\bin\Debug\15.Neighbour Wars.exe
+F:\SoftUni Loops and Conditional\15.Neighbour Wars\15.Neighbour Wars\bin\Debug\15.Neighbour Wars.pdb
+F:\SoftUni Loops and Conditional\15.Neighbour Wars\15.Neighbour Wars\obj\Debug\15.Neighbour Wars.exe
+F:\SoftUni Loops and Conditional\15.Neighbour Wars\15.Neighbour Wars\obj\Debug\15.Neighbour Wars.pdb

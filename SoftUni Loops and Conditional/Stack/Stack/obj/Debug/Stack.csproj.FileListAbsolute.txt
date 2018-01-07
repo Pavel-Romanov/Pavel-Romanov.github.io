@@ -1,0 +1,2 @@
+F:\SoftUni Loops and Conditional\Stack\Stack\bin\Debug\Stack.exe.config
+F:\SoftUni Loops and Conditional\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\06.Interval of Numbers\06.Interval of Numbers\bin\Debug\06.Interval of Numbers.exe.config
+F:\SoftUni Loops and Conditional\06.Interval of Numbers\06.Interval of Numbers\bin\Debug\06.Interval of Numbers.exe
+F:\SoftUni Loops and Conditional\06.Interval of Numbers\06.Interval of Numbers\bin\Debug\06.Interval of Numbers.pdb
+F:\SoftUni Loops and Conditional\06.Interval of Numbers\06.Interval of Numbers\obj\Debug\06.Interval of Numbers.exe
+F:\SoftUni Loops and Conditional\06.Interval of Numbers\06.Interval of Numbers\obj\Debug\06.Interval of Numbers.pdb

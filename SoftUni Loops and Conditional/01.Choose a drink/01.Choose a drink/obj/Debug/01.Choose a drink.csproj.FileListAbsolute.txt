@@ -1,0 +1,6 @@
+F:\SoftUni Loops and Conditional\01.Choose a drink\01.Choose a drink\bin\Debug\01.Choose a drink.exe.config
+F:\SoftUni Loops and Conditional\01.Choose a drink\01.Choose a drink\obj\Debug\01.Choose a drink.csprojResolveAssemblyReference.cache
+F:\SoftUni Loops and Conditional\01.Choose a drink\01.Choose a drink\bin\Debug\01.Choose a drink.exe
+F:\SoftUni Loops and Conditional\01.Choose a drink\01.Choose a drink\bin\Debug\01.Choose a drink.pdb
+F:\SoftUni Loops and Conditional\01.Choose a drink\01.Choose a drink\obj\Debug\01.Choose a drink.exe
+F:\SoftUni Loops and Conditional\01.Choose a drink\01.Choose a drink\obj\Debug\01.Choose a drink.pdb

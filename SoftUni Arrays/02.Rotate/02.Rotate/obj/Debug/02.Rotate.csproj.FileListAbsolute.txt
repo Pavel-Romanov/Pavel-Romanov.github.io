@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Arrays\02.Rotate\02.Rotate\bin\Debug\02.Rotate.exe.config
+F:\Programming Stuff\SoftUni Arrays\02.Rotate\02.Rotate\bin\Debug\02.Rotate.exe
+F:\Programming Stuff\SoftUni Arrays\02.Rotate\02.Rotate\bin\Debug\02.Rotate.pdb
+F:\Programming Stuff\SoftUni Arrays\02.Rotate\02.Rotate\obj\Debug\02.Rotate.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Arrays\02.Rotate\02.Rotate\obj\Debug\02.Rotate.exe
+F:\Programming Stuff\SoftUni Arrays\02.Rotate\02.Rotate\obj\Debug\02.Rotate.pdb

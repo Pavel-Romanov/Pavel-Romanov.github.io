@@ -1,0 +1,7 @@
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\bin\Debug\03.Miner.exe.config
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\bin\Debug\03.Miner.exe
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\bin\Debug\03.Miner.pdb
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\obj\Debug\03.Miner.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\obj\Debug\03.Miner.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\obj\Debug\03.Miner.exe
+F:\Programming Stuff\SoftUni Dictionaries and Lambda\03.Miner\03.Miner\obj\Debug\03.Miner.pdb

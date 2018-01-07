@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Data Types and variables\17.PrintingASII\17.PrintingASII\bin\Debug\17.PrintingASII.exe.config
+F:\Programming Stuff\SoftUni Data Types and variables\17.PrintingASII\17.PrintingASII\bin\Debug\17.PrintingASII.exe
+F:\Programming Stuff\SoftUni Data Types and variables\17.PrintingASII\17.PrintingASII\bin\Debug\17.PrintingASII.pdb
+F:\Programming Stuff\SoftUni Data Types and variables\17.PrintingASII\17.PrintingASII\obj\Debug\17.PrintingASII.exe
+F:\Programming Stuff\SoftUni Data Types and variables\17.PrintingASII\17.PrintingASII\obj\Debug\17.PrintingASII.pdb

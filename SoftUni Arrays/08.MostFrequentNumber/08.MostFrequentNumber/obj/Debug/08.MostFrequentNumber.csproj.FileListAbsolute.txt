@@ -1,0 +1,6 @@
+c:\users\rumen\source\repos\08.MostFrequentNumber\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.exe.config
+c:\users\rumen\source\repos\08.MostFrequentNumber\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.exe
+c:\users\rumen\source\repos\08.MostFrequentNumber\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.pdb
+c:\users\rumen\source\repos\08.MostFrequentNumber\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.csproj.CoreCompileInputs.cache
+c:\users\rumen\source\repos\08.MostFrequentNumber\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.exe
+c:\users\rumen\source\repos\08.MostFrequentNumber\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.pdb

@@ -1,0 +1,12 @@
+F:\Programming\Trainers Salary\Trainers Salary\bin\Debug\Trainers Salary.exe.config
+F:\Programming\Trainers Salary\Trainers Salary\bin\Debug\Trainers Salary.exe
+F:\Programming\Trainers Salary\Trainers Salary\bin\Debug\Trainers Salary.pdb
+F:\Programming\Trainers Salary\Trainers Salary\obj\Debug\Trainers Salary.csprojResolveAssemblyReference.cache
+F:\Programming\Trainers Salary\Trainers Salary\obj\Debug\Trainers Salary.exe
+F:\Programming\Trainers Salary\Trainers Salary\obj\Debug\Trainers Salary.pdb
+F:\Programming\Exam 19th March\Trainers Salary\Trainers Salary\bin\Debug\Trainers Salary.exe.config
+F:\Programming\Exam 19th March\Trainers Salary\Trainers Salary\obj\Debug\Trainers Salary.exe
+F:\Programming\Exam 19th March\Trainers Salary\Trainers Salary\obj\Debug\Trainers Salary.pdb
+F:\Programming\Exam 19th March\Trainers Salary\Trainers Salary\bin\Debug\Trainers Salary.exe
+F:\Programming\Exam 19th March\Trainers Salary\Trainers Salary\bin\Debug\Trainers Salary.pdb
+F:\Programming\Exam 19th March\Trainers Salary\Trainers Salary\obj\Debug\Trainers Salary.csprojResolveAssemblyReference.cache

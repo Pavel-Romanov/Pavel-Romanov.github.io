@@ -1,0 +1,6 @@
+F:\Programming\Exam 19th March\Paralelepiped\Paralelepiped\bin\Debug\Paralelepiped.exe.config
+F:\Programming\Exam 19th March\Paralelepiped\Paralelepiped\bin\Debug\Paralelepiped.exe
+F:\Programming\Exam 19th March\Paralelepiped\Paralelepiped\bin\Debug\Paralelepiped.pdb
+F:\Programming\Exam 19th March\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.csprojResolveAssemblyReference.cache
+F:\Programming\Exam 19th March\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.exe
+F:\Programming\Exam 19th March\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.pdb

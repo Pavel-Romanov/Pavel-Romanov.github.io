@@ -1,0 +1,6 @@
+F:\Programming\Figures with lopps\Figures with lopps\bin\Debug\Figures with lopps.exe.config
+F:\Programming\Figures with lopps\Figures with lopps\bin\Debug\Figures with lopps.exe
+F:\Programming\Figures with lopps\Figures with lopps\bin\Debug\Figures with lopps.pdb
+F:\Programming\Figures with lopps\Figures with lopps\obj\Debug\Figures with lopps.csprojResolveAssemblyReference.cache
+F:\Programming\Figures with lopps\Figures with lopps\obj\Debug\Figures with lopps.exe
+F:\Programming\Figures with lopps\Figures with lopps\obj\Debug\Figures with lopps.pdb

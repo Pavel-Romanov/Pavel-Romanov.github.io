@@ -1,0 +1,6 @@
+F:\Programming\Binary\Binary\bin\Debug\Binary.exe.config
+F:\Programming\Binary\Binary\bin\Debug\Binary.exe
+F:\Programming\Binary\Binary\bin\Debug\Binary.pdb
+F:\Programming\Binary\Binary\obj\Debug\Binary.csprojResolveAssemblyReference.cache
+F:\Programming\Binary\Binary\obj\Debug\Binary.exe
+F:\Programming\Binary\Binary\obj\Debug\Binary.pdb

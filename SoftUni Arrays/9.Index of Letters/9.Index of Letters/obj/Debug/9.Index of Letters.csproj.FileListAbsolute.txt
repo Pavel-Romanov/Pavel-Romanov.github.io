@@ -1,0 +1,6 @@
+c:\users\rumen\source\repos\9.Index of Letters\9.Index of Letters\obj\Debug\9.Index of Letters.csproj.CoreCompileInputs.cache
+c:\users\rumen\source\repos\9.Index of Letters\9.Index of Letters\bin\Debug\9.Index of Letters.exe.config
+c:\users\rumen\source\repos\9.Index of Letters\9.Index of Letters\bin\Debug\9.Index of Letters.exe
+c:\users\rumen\source\repos\9.Index of Letters\9.Index of Letters\bin\Debug\9.Index of Letters.pdb
+c:\users\rumen\source\repos\9.Index of Letters\9.Index of Letters\obj\Debug\9.Index of Letters.exe
+c:\users\rumen\source\repos\9.Index of Letters\9.Index of Letters\obj\Debug\9.Index of Letters.pdb

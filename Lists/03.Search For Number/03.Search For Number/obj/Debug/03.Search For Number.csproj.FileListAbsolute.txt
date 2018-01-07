@@ -1,0 +1,6 @@
+F:\Programming Stuff\Lists\03.Search For Number\03.Search For Number\bin\Debug\03.Search For Number.exe.config
+F:\Programming Stuff\Lists\03.Search For Number\03.Search For Number\bin\Debug\03.Search For Number.exe
+F:\Programming Stuff\Lists\03.Search For Number\03.Search For Number\bin\Debug\03.Search For Number.pdb
+F:\Programming Stuff\Lists\03.Search For Number\03.Search For Number\obj\Debug\03.Search For Number.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\Lists\03.Search For Number\03.Search For Number\obj\Debug\03.Search For Number.exe
+F:\Programming Stuff\Lists\03.Search For Number\03.Search For Number\obj\Debug\03.Search For Number.pdb

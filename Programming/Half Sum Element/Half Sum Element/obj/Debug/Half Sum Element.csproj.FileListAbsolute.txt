@@ -1,0 +1,6 @@
+F:\Programming\Half Sum Element\Half Sum Element\bin\Debug\Half Sum Element.exe.config
+F:\Programming\Half Sum Element\Half Sum Element\obj\Debug\Half Sum Element.csprojResolveAssemblyReference.cache
+F:\Programming\Half Sum Element\Half Sum Element\bin\Debug\Half Sum Element.exe
+F:\Programming\Half Sum Element\Half Sum Element\bin\Debug\Half Sum Element.pdb
+F:\Programming\Half Sum Element\Half Sum Element\obj\Debug\Half Sum Element.exe
+F:\Programming\Half Sum Element\Half Sum Element\obj\Debug\Half Sum Element.pdb

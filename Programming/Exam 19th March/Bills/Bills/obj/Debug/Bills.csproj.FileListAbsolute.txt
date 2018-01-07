@@ -1,0 +1,6 @@
+F:\Programming\Exam 19th March\Bills\Bills\bin\Debug\Bills.exe.config
+F:\Programming\Exam 19th March\Bills\Bills\bin\Debug\Bills.exe
+F:\Programming\Exam 19th March\Bills\Bills\bin\Debug\Bills.pdb
+F:\Programming\Exam 19th March\Bills\Bills\obj\Debug\Bills.csprojResolveAssemblyReference.cache
+F:\Programming\Exam 19th March\Bills\Bills\obj\Debug\Bills.exe
+F:\Programming\Exam 19th March\Bills\Bills\obj\Debug\Bills.pdb

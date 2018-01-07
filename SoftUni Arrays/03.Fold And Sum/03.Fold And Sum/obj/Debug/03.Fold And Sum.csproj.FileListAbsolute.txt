@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Arrays\03.Fold And Sum\03.Fold And Sum\bin\Debug\03.Fold And Sum.exe.config
+F:\Programming Stuff\SoftUni Arrays\03.Fold And Sum\03.Fold And Sum\bin\Debug\03.Fold And Sum.exe
+F:\Programming Stuff\SoftUni Arrays\03.Fold And Sum\03.Fold And Sum\bin\Debug\03.Fold And Sum.pdb
+F:\Programming Stuff\SoftUni Arrays\03.Fold And Sum\03.Fold And Sum\obj\Debug\03.Fold And Sum.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Arrays\03.Fold And Sum\03.Fold And Sum\obj\Debug\03.Fold And Sum.exe
+F:\Programming Stuff\SoftUni Arrays\03.Fold And Sum\03.Fold And Sum\obj\Debug\03.Fold And Sum.pdb

@@ -1,0 +1,6 @@
+F:\SoftUni Loops and Conditional\03.Restaurant Discount\03.Restaurant Discount\bin\Debug\03.Restaurant Discount.exe.config
+F:\SoftUni Loops and Conditional\03.Restaurant Discount\03.Restaurant Discount\bin\Debug\03.Restaurant Discount.exe
+F:\SoftUni Loops and Conditional\03.Restaurant Discount\03.Restaurant Discount\bin\Debug\03.Restaurant Discount.pdb
+F:\SoftUni Loops and Conditional\03.Restaurant Discount\03.Restaurant Discount\obj\Debug\03.Restaurant Discount.csprojResolveAssemblyReference.cache
+F:\SoftUni Loops and Conditional\03.Restaurant Discount\03.Restaurant Discount\obj\Debug\03.Restaurant Discount.exe
+F:\SoftUni Loops and Conditional\03.Restaurant Discount\03.Restaurant Discount\obj\Debug\03.Restaurant Discount.pdb

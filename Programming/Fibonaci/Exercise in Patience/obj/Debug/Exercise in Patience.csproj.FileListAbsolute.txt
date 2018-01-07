@@ -1,0 +1,6 @@
+C:\Users\Rumen\Desktop\Exercise in Patience\Exercise in Patience\bin\Debug\Exercise in Patience.exe.config
+C:\Users\Rumen\Desktop\Exercise in Patience\Exercise in Patience\obj\Debug\Exercise in Patience.csprojResolveAssemblyReference.cache
+C:\Users\Rumen\Desktop\Exercise in Patience\Exercise in Patience\bin\Debug\Exercise in Patience.exe
+C:\Users\Rumen\Desktop\Exercise in Patience\Exercise in Patience\bin\Debug\Exercise in Patience.pdb
+C:\Users\Rumen\Desktop\Exercise in Patience\Exercise in Patience\obj\Debug\Exercise in Patience.exe
+C:\Users\Rumen\Desktop\Exercise in Patience\Exercise in Patience\obj\Debug\Exercise in Patience.pdb

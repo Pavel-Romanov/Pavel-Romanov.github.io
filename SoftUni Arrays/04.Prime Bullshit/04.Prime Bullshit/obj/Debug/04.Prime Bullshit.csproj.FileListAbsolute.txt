@@ -1,0 +1,7 @@
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\bin\Debug\04.Prime Bullshit.exe.config
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\bin\Debug\04.Prime Bullshit.exe
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\bin\Debug\04.Prime Bullshit.pdb
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\obj\Debug\04.Prime Bullshit.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\obj\Debug\04.Prime Bullshit.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\obj\Debug\04.Prime Bullshit.exe
+F:\Programming Stuff\SoftUni Arrays\04.Prime Bullshit\04.Prime Bullshit\obj\Debug\04.Prime Bullshit.pdb

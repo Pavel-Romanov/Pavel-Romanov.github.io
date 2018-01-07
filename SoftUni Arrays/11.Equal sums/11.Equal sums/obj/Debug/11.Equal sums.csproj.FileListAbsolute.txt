@@ -1,0 +1,6 @@
+c:\users\rumen\source\repos\11.Equal sums\11.Equal sums\bin\Debug\11.Equal sums.exe.config
+c:\users\rumen\source\repos\11.Equal sums\11.Equal sums\bin\Debug\11.Equal sums.exe
+c:\users\rumen\source\repos\11.Equal sums\11.Equal sums\bin\Debug\11.Equal sums.pdb
+c:\users\rumen\source\repos\11.Equal sums\11.Equal sums\obj\Debug\11.Equal sums.csproj.CoreCompileInputs.cache
+c:\users\rumen\source\repos\11.Equal sums\11.Equal sums\obj\Debug\11.Equal sums.exe
+c:\users\rumen\source\repos\11.Equal sums\11.Equal sums\obj\Debug\11.Equal sums.pdb

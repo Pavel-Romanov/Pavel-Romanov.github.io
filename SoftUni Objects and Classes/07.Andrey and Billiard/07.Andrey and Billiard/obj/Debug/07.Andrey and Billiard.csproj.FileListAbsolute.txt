@@ -1,0 +1,7 @@
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\bin\Debug\07.Andrey and Billiard.exe.config
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\bin\Debug\07.Andrey and Billiard.exe
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\bin\Debug\07.Andrey and Billiard.pdb
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.exe
+F:\Programming Stuff\SoftUni Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.pdb

@@ -1,0 +1,6 @@
+F:\Programming\Exam 19th March\01.Practise integer numbers\01.Practise integer numbers\bin\Debug\01.Practise integer numbers.exe.config
+F:\Programming\Exam 19th March\01.Practise integer numbers\01.Practise integer numbers\obj\Debug\01.Practise integer numbers.csprojResolveAssemblyReference.cache
+F:\Programming\Exam 19th March\01.Practise integer numbers\01.Practise integer numbers\bin\Debug\01.Practise integer numbers.exe
+F:\Programming\Exam 19th March\01.Practise integer numbers\01.Practise integer numbers\bin\Debug\01.Practise integer numbers.pdb
+F:\Programming\Exam 19th March\01.Practise integer numbers\01.Practise integer numbers\obj\Debug\01.Practise integer numbers.exe
+F:\Programming\Exam 19th March\01.Practise integer numbers\01.Practise integer numbers\obj\Debug\01.Practise integer numbers.pdb

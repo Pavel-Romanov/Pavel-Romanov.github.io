@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\13.Game of Numbers\13.Game of Numbers\bin\Debug\13.Game of Numbers.exe.config
+F:\SoftUni Loops and Conditional\13.Game of Numbers\13.Game of Numbers\bin\Debug\13.Game of Numbers.exe
+F:\SoftUni Loops and Conditional\13.Game of Numbers\13.Game of Numbers\bin\Debug\13.Game of Numbers.pdb
+F:\SoftUni Loops and Conditional\13.Game of Numbers\13.Game of Numbers\obj\Debug\13.Game of Numbers.exe
+F:\SoftUni Loops and Conditional\13.Game of Numbers\13.Game of Numbers\obj\Debug\13.Game of Numbers.pdb

@@ -1,0 +1,7 @@
+F:\Programming Stuff\Lists\02.Change List\02.Change List\bin\Debug\02.Change List.exe.config
+F:\Programming Stuff\Lists\02.Change List\02.Change List\bin\Debug\02.Change List.exe
+F:\Programming Stuff\Lists\02.Change List\02.Change List\bin\Debug\02.Change List.pdb
+F:\Programming Stuff\Lists\02.Change List\02.Change List\obj\Debug\02.Change List.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\Lists\02.Change List\02.Change List\obj\Debug\02.Change List.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\Lists\02.Change List\02.Change List\obj\Debug\02.Change List.exe
+F:\Programming Stuff\Lists\02.Change List\02.Change List\obj\Debug\02.Change List.pdb

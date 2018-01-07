@@ -1,0 +1,6 @@
+F:\Programming\Simple Looping\Simple Looping\bin\Debug\Simple Looping.exe.config
+F:\Programming\Simple Looping\Simple Looping\obj\Debug\Simple Looping.csprojResolveAssemblyReference.cache
+F:\Programming\Simple Looping\Simple Looping\bin\Debug\Simple Looping.exe
+F:\Programming\Simple Looping\Simple Looping\bin\Debug\Simple Looping.pdb
+F:\Programming\Simple Looping\Simple Looping\obj\Debug\Simple Looping.exe
+F:\Programming\Simple Looping\Simple Looping\obj\Debug\Simple Looping.pdb

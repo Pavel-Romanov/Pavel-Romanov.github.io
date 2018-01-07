@@ -1,0 +1,7 @@
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\bin\Debug\02.Advertisement Message.exe.config
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\bin\Debug\02.Advertisement Message.exe
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\bin\Debug\02.Advertisement Message.pdb
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\obj\Debug\02.Advertisement Message.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\obj\Debug\02.Advertisement Message.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\obj\Debug\02.Advertisement Message.exe
+F:\Programming Stuff\SoftUni Objects and Classes\02.Advertisement Message\02.Advertisement Message\obj\Debug\02.Advertisement Message.pdb

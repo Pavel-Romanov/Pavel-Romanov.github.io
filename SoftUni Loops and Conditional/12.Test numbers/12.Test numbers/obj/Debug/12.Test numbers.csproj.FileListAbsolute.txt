@@ -1,0 +1,6 @@
+F:\SoftUni Loops and Conditional\12.Test numbers\12.Test numbers\bin\Debug\12.Test numbers.exe.config
+F:\SoftUni Loops and Conditional\12.Test numbers\12.Test numbers\bin\Debug\12.Test numbers.exe
+F:\SoftUni Loops and Conditional\12.Test numbers\12.Test numbers\bin\Debug\12.Test numbers.pdb
+F:\SoftUni Loops and Conditional\12.Test numbers\12.Test numbers\obj\Debug\12.Test numbers.csprojResolveAssemblyReference.cache
+F:\SoftUni Loops and Conditional\12.Test numbers\12.Test numbers\obj\Debug\12.Test numbers.exe
+F:\SoftUni Loops and Conditional\12.Test numbers\12.Test numbers\obj\Debug\12.Test numbers.pdb

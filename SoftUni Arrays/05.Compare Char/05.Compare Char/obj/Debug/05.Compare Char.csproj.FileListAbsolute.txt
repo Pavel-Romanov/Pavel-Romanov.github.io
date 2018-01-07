@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Arrays\05.Compare Char\05.Compare Char\bin\Debug\05.Compare Char.exe.config
+F:\Programming Stuff\SoftUni Arrays\05.Compare Char\05.Compare Char\bin\Debug\05.Compare Char.exe
+F:\Programming Stuff\SoftUni Arrays\05.Compare Char\05.Compare Char\bin\Debug\05.Compare Char.pdb
+F:\Programming Stuff\SoftUni Arrays\05.Compare Char\05.Compare Char\obj\Debug\05.Compare Char.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Arrays\05.Compare Char\05.Compare Char\obj\Debug\05.Compare Char.exe
+F:\Programming Stuff\SoftUni Arrays\05.Compare Char\05.Compare Char\obj\Debug\05.Compare Char.pdb

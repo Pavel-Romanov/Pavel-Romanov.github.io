@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Data Types and variables\16.Comparing floats\16.Comparing floats\bin\Debug\16.Comparing floats.exe.config
+F:\Programming Stuff\SoftUni Data Types and variables\16.Comparing floats\16.Comparing floats\bin\Debug\16.Comparing floats.exe
+F:\Programming Stuff\SoftUni Data Types and variables\16.Comparing floats\16.Comparing floats\bin\Debug\16.Comparing floats.pdb
+F:\Programming Stuff\SoftUni Data Types and variables\16.Comparing floats\16.Comparing floats\obj\Debug\16.Comparing floats.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Data Types and variables\16.Comparing floats\16.Comparing floats\obj\Debug\16.Comparing floats.exe
+F:\Programming Stuff\SoftUni Data Types and variables\16.Comparing floats\16.Comparing floats\obj\Debug\16.Comparing floats.pdb

@@ -1,0 +1,7 @@
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\bin\Debug\04.Longest Subsequence.exe.config
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\bin\Debug\04.Longest Subsequence.exe
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\bin\Debug\04.Longest Subsequence.pdb
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\obj\Debug\04.Longest Subsequence.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\obj\Debug\04.Longest Subsequence.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\obj\Debug\04.Longest Subsequence.exe
+F:\Programming Stuff\Lists\04.Longest Subsequence\04.Longest Subsequence\obj\Debug\04.Longest Subsequence.pdb

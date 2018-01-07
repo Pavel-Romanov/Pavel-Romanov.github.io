@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\05.Fibonacci\05.Fibonacci\bin\Debug\05.Fibonacci.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\05.Fibonacci\05.Fibonacci\bin\Debug\05.Fibonacci.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\05.Fibonacci\05.Fibonacci\bin\Debug\05.Fibonacci.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\05.Fibonacci\05.Fibonacci\obj\Debug\05.Fibonacci.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\05.Fibonacci\05.Fibonacci\obj\Debug\05.Fibonacci.pdb

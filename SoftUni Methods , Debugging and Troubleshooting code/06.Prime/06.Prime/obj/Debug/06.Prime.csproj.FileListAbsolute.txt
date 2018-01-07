@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\06.Prime\06.Prime\bin\Debug\06.Prime.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\06.Prime\06.Prime\bin\Debug\06.Prime.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\06.Prime\06.Prime\bin\Debug\06.Prime.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\06.Prime\06.Prime\obj\Debug\06.Prime.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\06.Prime\06.Prime\obj\Debug\06.Prime.pdb

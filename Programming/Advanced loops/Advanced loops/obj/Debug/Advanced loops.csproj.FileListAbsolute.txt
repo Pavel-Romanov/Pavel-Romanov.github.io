@@ -1,0 +1,6 @@
+F:\Programming\Advanced loops\Advanced loops\bin\Debug\Advanced loops.exe.config
+F:\Programming\Advanced loops\Advanced loops\bin\Debug\Advanced loops.exe
+F:\Programming\Advanced loops\Advanced loops\bin\Debug\Advanced loops.pdb
+F:\Programming\Advanced loops\Advanced loops\obj\Debug\Advanced loops.csprojResolveAssemblyReference.cache
+F:\Programming\Advanced loops\Advanced loops\obj\Debug\Advanced loops.exe
+F:\Programming\Advanced loops\Advanced loops\obj\Debug\Advanced loops.pdb

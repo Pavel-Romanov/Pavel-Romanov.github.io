@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Arrays\06.Max Sequence\06.Max Sequence\bin\Debug\06.Max Sequence.exe.config
+F:\Programming Stuff\SoftUni Arrays\06.Max Sequence\06.Max Sequence\bin\Debug\06.Max Sequence.exe
+F:\Programming Stuff\SoftUni Arrays\06.Max Sequence\06.Max Sequence\bin\Debug\06.Max Sequence.pdb
+F:\Programming Stuff\SoftUni Arrays\06.Max Sequence\06.Max Sequence\obj\Debug\06.Max Sequence.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Arrays\06.Max Sequence\06.Max Sequence\obj\Debug\06.Max Sequence.exe
+F:\Programming Stuff\SoftUni Arrays\06.Max Sequence\06.Max Sequence\obj\Debug\06.Max Sequence.pdb

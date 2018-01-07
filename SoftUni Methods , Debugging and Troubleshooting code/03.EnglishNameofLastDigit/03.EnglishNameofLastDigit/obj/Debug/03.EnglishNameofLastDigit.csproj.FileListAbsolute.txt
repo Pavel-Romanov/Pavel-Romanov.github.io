@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\03.EnglishNameofLastDigit\03.EnglishNameofLastDigit\bin\Debug\03.EnglishNameofLastDigit.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\03.EnglishNameofLastDigit\03.EnglishNameofLastDigit\bin\Debug\03.EnglishNameofLastDigit.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\03.EnglishNameofLastDigit\03.EnglishNameofLastDigit\bin\Debug\03.EnglishNameofLastDigit.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\03.EnglishNameofLastDigit\03.EnglishNameofLastDigit\obj\Debug\03.EnglishNameofLastDigit.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\03.EnglishNameofLastDigit\03.EnglishNameofLastDigit\obj\Debug\03.EnglishNameofLastDigit.pdb

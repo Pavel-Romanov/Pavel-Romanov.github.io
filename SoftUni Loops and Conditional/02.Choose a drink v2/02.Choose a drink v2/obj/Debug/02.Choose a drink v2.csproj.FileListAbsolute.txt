@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\02.Choose a drink v2\02.Choose a drink v2\bin\Debug\02.Choose a drink v2.exe.config
+F:\SoftUni Loops and Conditional\02.Choose a drink v2\02.Choose a drink v2\bin\Debug\02.Choose a drink v2.exe
+F:\SoftUni Loops and Conditional\02.Choose a drink v2\02.Choose a drink v2\bin\Debug\02.Choose a drink v2.pdb
+F:\SoftUni Loops and Conditional\02.Choose a drink v2\02.Choose a drink v2\obj\Debug\02.Choose a drink v2.exe
+F:\SoftUni Loops and Conditional\02.Choose a drink v2\02.Choose a drink v2\obj\Debug\02.Choose a drink v2.pdb

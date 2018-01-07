@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\02.Max Method\02.Max Method\bin\Debug\02.Max Method.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\02.Max Method\02.Max Method\bin\Debug\02.Max Method.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\02.Max Method\02.Max Method\bin\Debug\02.Max Method.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\02.Max Method\02.Max Method\obj\Debug\02.Max Method.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\02.Max Method\02.Max Method\obj\Debug\02.Max Method.pdb

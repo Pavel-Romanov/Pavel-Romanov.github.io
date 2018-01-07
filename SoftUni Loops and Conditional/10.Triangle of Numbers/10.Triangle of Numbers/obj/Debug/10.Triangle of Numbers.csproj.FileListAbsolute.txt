@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\10.Triangle of Numbers\10.Triangle of Numbers\bin\Debug\10.Triangle of Numbers.exe.config
+F:\SoftUni Loops and Conditional\10.Triangle of Numbers\10.Triangle of Numbers\bin\Debug\10.Triangle of Numbers.exe
+F:\SoftUni Loops and Conditional\10.Triangle of Numbers\10.Triangle of Numbers\bin\Debug\10.Triangle of Numbers.pdb
+F:\SoftUni Loops and Conditional\10.Triangle of Numbers\10.Triangle of Numbers\obj\Debug\10.Triangle of Numbers.exe
+F:\SoftUni Loops and Conditional\10.Triangle of Numbers\10.Triangle of Numbers\obj\Debug\10.Triangle of Numbers.pdb

@@ -1,0 +1,6 @@
+F:\Programming\Matrix 2\Matrix 2\bin\Debug\Matrix 2.exe.config
+F:\Programming\Matrix 2\Matrix 2\bin\Debug\Matrix 2.exe
+F:\Programming\Matrix 2\Matrix 2\bin\Debug\Matrix 2.pdb
+F:\Programming\Matrix 2\Matrix 2\obj\Debug\Matrix 2.csprojResolveAssemblyReference.cache
+F:\Programming\Matrix 2\Matrix 2\obj\Debug\Matrix 2.exe
+F:\Programming\Matrix 2\Matrix 2\obj\Debug\Matrix 2.pdb

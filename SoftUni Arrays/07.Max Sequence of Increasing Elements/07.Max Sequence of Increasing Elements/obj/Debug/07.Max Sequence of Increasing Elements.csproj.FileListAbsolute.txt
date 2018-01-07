@@ -1,0 +1,6 @@
+c:\users\rumen\source\repos\07.Max Sequence of Increasing Elements\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.exe.config
+c:\users\rumen\source\repos\07.Max Sequence of Increasing Elements\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.exe
+c:\users\rumen\source\repos\07.Max Sequence of Increasing Elements\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.pdb
+c:\users\rumen\source\repos\07.Max Sequence of Increasing Elements\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+c:\users\rumen\source\repos\07.Max Sequence of Increasing Elements\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.exe
+c:\users\rumen\source\repos\07.Max Sequence of Increasing Elements\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.pdb

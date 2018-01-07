@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\07.Cake Ingridients\07.Cake Ingridients\bin\Debug\07.Cake Ingridients.exe.config
+F:\SoftUni Loops and Conditional\07.Cake Ingridients\07.Cake Ingridients\bin\Debug\07.Cake Ingridients.exe
+F:\SoftUni Loops and Conditional\07.Cake Ingridients\07.Cake Ingridients\bin\Debug\07.Cake Ingridients.pdb
+F:\SoftUni Loops and Conditional\07.Cake Ingridients\07.Cake Ingridients\obj\Debug\07.Cake Ingridients.exe
+F:\SoftUni Loops and Conditional\07.Cake Ingridients\07.Cake Ingridients\obj\Debug\07.Cake Ingridients.pdb

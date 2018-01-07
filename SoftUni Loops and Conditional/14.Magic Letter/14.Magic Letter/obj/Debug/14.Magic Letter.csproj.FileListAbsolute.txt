@@ -1,0 +1,6 @@
+F:\SoftUni Loops and Conditional\14.Magic Letter\14.Magic Letter\bin\Debug\14.Magic Letter.exe.config
+F:\SoftUni Loops and Conditional\14.Magic Letter\14.Magic Letter\obj\Debug\14.Magic Letter.csprojResolveAssemblyReference.cache
+F:\SoftUni Loops and Conditional\14.Magic Letter\14.Magic Letter\bin\Debug\14.Magic Letter.exe
+F:\SoftUni Loops and Conditional\14.Magic Letter\14.Magic Letter\bin\Debug\14.Magic Letter.pdb
+F:\SoftUni Loops and Conditional\14.Magic Letter\14.Magic Letter\obj\Debug\14.Magic Letter.exe
+F:\SoftUni Loops and Conditional\14.Magic Letter\14.Magic Letter\obj\Debug\14.Magic Letter.pdb

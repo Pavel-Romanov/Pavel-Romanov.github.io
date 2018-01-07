@@ -1,0 +1,6 @@
+F:\SoftUni Loops and Conditional\04.Hotel\04.Hotel\bin\Debug\04.Hotel.exe.config
+F:\SoftUni Loops and Conditional\04.Hotel\04.Hotel\bin\Debug\04.Hotel.exe
+F:\SoftUni Loops and Conditional\04.Hotel\04.Hotel\bin\Debug\04.Hotel.pdb
+F:\SoftUni Loops and Conditional\04.Hotel\04.Hotel\obj\Debug\04.Hotel.csprojResolveAssemblyReference.cache
+F:\SoftUni Loops and Conditional\04.Hotel\04.Hotel\obj\Debug\04.Hotel.exe
+F:\SoftUni Loops and Conditional\04.Hotel\04.Hotel\obj\Debug\04.Hotel.pdb

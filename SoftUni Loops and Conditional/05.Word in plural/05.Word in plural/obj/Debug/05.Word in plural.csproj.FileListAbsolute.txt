@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\05.Word in plural\05.Word in plural\bin\Debug\05.Word in plural.exe.config
+F:\SoftUni Loops and Conditional\05.Word in plural\05.Word in plural\bin\Debug\05.Word in plural.exe
+F:\SoftUni Loops and Conditional\05.Word in plural\05.Word in plural\bin\Debug\05.Word in plural.pdb
+F:\SoftUni Loops and Conditional\05.Word in plural\05.Word in plural\obj\Debug\05.Word in plural.exe
+F:\SoftUni Loops and Conditional\05.Word in plural\05.Word in plural\obj\Debug\05.Word in plural.pdb

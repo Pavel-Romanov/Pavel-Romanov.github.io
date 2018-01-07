@@ -1,0 +1,6 @@
+F:\Programming Stuff\Lists\07.bombashtegrumne\07.bombashtegrumne\bin\Debug\07.bombashtegrumne.exe.config
+F:\Programming Stuff\Lists\07.bombashtegrumne\07.bombashtegrumne\bin\Debug\07.bombashtegrumne.exe
+F:\Programming Stuff\Lists\07.bombashtegrumne\07.bombashtegrumne\bin\Debug\07.bombashtegrumne.pdb
+F:\Programming Stuff\Lists\07.bombashtegrumne\07.bombashtegrumne\obj\Debug\07.bombashtegrumne.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\Lists\07.bombashtegrumne\07.bombashtegrumne\obj\Debug\07.bombashtegrumne.exe
+F:\Programming Stuff\Lists\07.bombashtegrumne\07.bombashtegrumne\obj\Debug\07.bombashtegrumne.pdb

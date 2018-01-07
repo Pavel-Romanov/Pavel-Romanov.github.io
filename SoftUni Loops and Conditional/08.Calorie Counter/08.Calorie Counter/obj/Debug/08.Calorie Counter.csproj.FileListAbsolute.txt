@@ -1,0 +1,5 @@
+F:\SoftUni Loops and Conditional\08.Calorie Counter\08.Calorie Counter\bin\Debug\08.Calorie Counter.exe.config
+F:\SoftUni Loops and Conditional\08.Calorie Counter\08.Calorie Counter\bin\Debug\08.Calorie Counter.exe
+F:\SoftUni Loops and Conditional\08.Calorie Counter\08.Calorie Counter\bin\Debug\08.Calorie Counter.pdb
+F:\SoftUni Loops and Conditional\08.Calorie Counter\08.Calorie Counter\obj\Debug\08.Calorie Counter.exe
+F:\SoftUni Loops and Conditional\08.Calorie Counter\08.Calorie Counter\obj\Debug\08.Calorie Counter.pdb

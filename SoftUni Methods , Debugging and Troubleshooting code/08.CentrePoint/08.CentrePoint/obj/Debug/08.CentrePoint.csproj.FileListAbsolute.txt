@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\08.CentrePoint\08.CentrePoint\bin\Debug\08.CentrePoint.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\08.CentrePoint\08.CentrePoint\bin\Debug\08.CentrePoint.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\08.CentrePoint\08.CentrePoint\bin\Debug\08.CentrePoint.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\08.CentrePoint\08.CentrePoint\obj\Debug\08.CentrePoint.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\08.CentrePoint\08.CentrePoint\obj\Debug\08.CentrePoint.pdb

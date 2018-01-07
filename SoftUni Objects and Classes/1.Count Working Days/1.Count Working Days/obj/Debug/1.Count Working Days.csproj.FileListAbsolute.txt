@@ -1,0 +1,7 @@
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\bin\Debug\1.Count Working Days.exe.config
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\bin\Debug\1.Count Working Days.exe
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\bin\Debug\1.Count Working Days.pdb
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\obj\Debug\1.Count Working Days.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\obj\Debug\1.Count Working Days.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\obj\Debug\1.Count Working Days.exe
+F:\Programming Stuff\SoftUni Objects and Classes\1.Count Working Days\1.Count Working Days\obj\Debug\1.Count Working Days.pdb

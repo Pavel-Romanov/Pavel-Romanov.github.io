@@ -1,0 +1,6 @@
+F:\SoftUni Loops and Conditional\09.Count of integers\09.Count of integers\bin\Debug\09.Count of integers.exe.config
+F:\SoftUni Loops and Conditional\09.Count of integers\09.Count of integers\bin\Debug\09.Count of integers.exe
+F:\SoftUni Loops and Conditional\09.Count of integers\09.Count of integers\bin\Debug\09.Count of integers.pdb
+F:\SoftUni Loops and Conditional\09.Count of integers\09.Count of integers\obj\Debug\09.Count of integers.csprojResolveAssemblyReference.cache
+F:\SoftUni Loops and Conditional\09.Count of integers\09.Count of integers\obj\Debug\09.Count of integers.exe
+F:\SoftUni Loops and Conditional\09.Count of integers\09.Count of integers\obj\Debug\09.Count of integers.pdb

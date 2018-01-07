@@ -1,0 +1,6 @@
+F:\Programming\Hardest one yet\Hardest one yet\bin\Debug\Hardest one yet.exe.config
+F:\Programming\Hardest one yet\Hardest one yet\obj\Debug\Hardest one yet.csprojResolveAssemblyReference.cache
+F:\Programming\Hardest one yet\Hardest one yet\bin\Debug\Hardest one yet.exe
+F:\Programming\Hardest one yet\Hardest one yet\bin\Debug\Hardest one yet.pdb
+F:\Programming\Hardest one yet\Hardest one yet\obj\Debug\Hardest one yet.exe
+F:\Programming\Hardest one yet\Hardest one yet\obj\Debug\Hardest one yet.pdb

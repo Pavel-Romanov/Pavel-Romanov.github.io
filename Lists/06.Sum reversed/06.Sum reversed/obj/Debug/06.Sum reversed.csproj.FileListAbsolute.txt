@@ -1,0 +1,6 @@
+F:\Programming Stuff\Lists\06.Sum reversed\06.Sum reversed\obj\Debug\06.Sum reversed.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\Lists\06.Sum reversed\06.Sum reversed\bin\Debug\06.Sum reversed.exe.config
+F:\Programming Stuff\Lists\06.Sum reversed\06.Sum reversed\bin\Debug\06.Sum reversed.exe
+F:\Programming Stuff\Lists\06.Sum reversed\06.Sum reversed\bin\Debug\06.Sum reversed.pdb
+F:\Programming Stuff\Lists\06.Sum reversed\06.Sum reversed\obj\Debug\06.Sum reversed.exe
+F:\Programming Stuff\Lists\06.Sum reversed\06.Sum reversed\obj\Debug\06.Sum reversed.pdb

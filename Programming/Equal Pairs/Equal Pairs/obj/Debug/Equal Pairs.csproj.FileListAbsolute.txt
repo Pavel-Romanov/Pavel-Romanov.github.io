@@ -1,0 +1,6 @@
+F:\Programming\Equal Pairs\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+F:\Programming\Equal Pairs\Equal Pairs\bin\Debug\Equal Pairs.exe
+F:\Programming\Equal Pairs\Equal Pairs\bin\Debug\Equal Pairs.pdb
+F:\Programming\Equal Pairs\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+F:\Programming\Equal Pairs\Equal Pairs\obj\Debug\Equal Pairs.exe
+F:\Programming\Equal Pairs\Equal Pairs\obj\Debug\Equal Pairs.pdb

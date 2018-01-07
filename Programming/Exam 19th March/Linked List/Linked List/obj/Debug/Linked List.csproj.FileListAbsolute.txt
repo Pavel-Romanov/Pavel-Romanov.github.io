@@ -1,0 +1,6 @@
+F:\Programming\Exam 19th March\Linked List\Linked List\bin\Debug\Linked List.exe.config
+F:\Programming\Exam 19th March\Linked List\Linked List\obj\Debug\Linked List.csprojResolveAssemblyReference.cache
+F:\Programming\Exam 19th March\Linked List\Linked List\bin\Debug\Linked List.exe
+F:\Programming\Exam 19th March\Linked List\Linked List\bin\Debug\Linked List.pdb
+F:\Programming\Exam 19th March\Linked List\Linked List\obj\Debug\Linked List.exe
+F:\Programming\Exam 19th March\Linked List\Linked List\obj\Debug\Linked List.pdb

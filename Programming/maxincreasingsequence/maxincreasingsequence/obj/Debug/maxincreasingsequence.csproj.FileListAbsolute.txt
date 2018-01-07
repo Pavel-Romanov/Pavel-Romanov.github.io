@@ -1,0 +1,6 @@
+F:\Programming\maxincreasingsequence\maxincreasingsequence\bin\Debug\maxincreasingsequence.exe.config
+F:\Programming\maxincreasingsequence\maxincreasingsequence\bin\Debug\maxincreasingsequence.exe
+F:\Programming\maxincreasingsequence\maxincreasingsequence\bin\Debug\maxincreasingsequence.pdb
+F:\Programming\maxincreasingsequence\maxincreasingsequence\obj\Debug\maxincreasingsequence.csprojResolveAssemblyReference.cache
+F:\Programming\maxincreasingsequence\maxincreasingsequence\obj\Debug\maxincreasingsequence.exe
+F:\Programming\maxincreasingsequence\maxincreasingsequence\obj\Debug\maxincreasingsequence.pdb

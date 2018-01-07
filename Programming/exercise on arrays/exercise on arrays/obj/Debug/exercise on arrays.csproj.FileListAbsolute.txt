@@ -1,0 +1,6 @@
+F:\Programming\exercise on arrays\exercise on arrays\bin\Debug\exercise on arrays.exe.config
+F:\Programming\exercise on arrays\exercise on arrays\obj\Debug\exercise on arrays.csprojResolveAssemblyReference.cache
+F:\Programming\exercise on arrays\exercise on arrays\bin\Debug\exercise on arrays.exe
+F:\Programming\exercise on arrays\exercise on arrays\bin\Debug\exercise on arrays.pdb
+F:\Programming\exercise on arrays\exercise on arrays\obj\Debug\exercise on arrays.exe
+F:\Programming\exercise on arrays\exercise on arrays\obj\Debug\exercise on arrays.pdb

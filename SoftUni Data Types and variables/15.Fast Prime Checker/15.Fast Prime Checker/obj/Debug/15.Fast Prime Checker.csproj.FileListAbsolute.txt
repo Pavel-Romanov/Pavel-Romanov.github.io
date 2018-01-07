@@ -1,0 +1,6 @@
+F:\Programming Stuff\SoftUni Data Types and variables\15.Fast Prime Checker\15.Fast Prime Checker\bin\Debug\15.Fast Prime Checker.exe.config
+F:\Programming Stuff\SoftUni Data Types and variables\15.Fast Prime Checker\15.Fast Prime Checker\obj\Debug\15.Fast Prime Checker.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Data Types and variables\15.Fast Prime Checker\15.Fast Prime Checker\bin\Debug\15.Fast Prime Checker.exe
+F:\Programming Stuff\SoftUni Data Types and variables\15.Fast Prime Checker\15.Fast Prime Checker\bin\Debug\15.Fast Prime Checker.pdb
+F:\Programming Stuff\SoftUni Data Types and variables\15.Fast Prime Checker\15.Fast Prime Checker\obj\Debug\15.Fast Prime Checker.exe
+F:\Programming Stuff\SoftUni Data Types and variables\15.Fast Prime Checker\15.Fast Prime Checker\obj\Debug\15.Fast Prime Checker.pdb

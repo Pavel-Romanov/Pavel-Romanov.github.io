@@ -1,0 +1,6 @@
+F:\Programming\ZerosCounter\ZerosCounter\bin\Debug\ZerosCounter.exe.config
+F:\Programming\ZerosCounter\ZerosCounter\bin\Debug\ZerosCounter.exe
+F:\Programming\ZerosCounter\ZerosCounter\bin\Debug\ZerosCounter.pdb
+F:\Programming\ZerosCounter\ZerosCounter\obj\Debug\ZerosCounter.csprojResolveAssemblyReference.cache
+F:\Programming\ZerosCounter\ZerosCounter\obj\Debug\ZerosCounter.exe
+F:\Programming\ZerosCounter\ZerosCounter\obj\Debug\ZerosCounter.pdb

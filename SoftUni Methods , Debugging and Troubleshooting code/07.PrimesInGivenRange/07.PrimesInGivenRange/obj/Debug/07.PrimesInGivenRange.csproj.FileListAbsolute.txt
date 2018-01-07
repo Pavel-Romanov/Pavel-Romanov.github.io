@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\07.PrimesInGivenRange\07.PrimesInGivenRange\bin\Debug\07.PrimesInGivenRange.exe.config
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\07.PrimesInGivenRange\07.PrimesInGivenRange\bin\Debug\07.PrimesInGivenRange.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\07.PrimesInGivenRange\07.PrimesInGivenRange\bin\Debug\07.PrimesInGivenRange.pdb
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\07.PrimesInGivenRange\07.PrimesInGivenRange\obj\Debug\07.PrimesInGivenRange.exe
+F:\Programming Stuff\SoftUni Methods , Debugging and Troubleshooting code\07.PrimesInGivenRange\07.PrimesInGivenRange\obj\Debug\07.PrimesInGivenRange.pdb

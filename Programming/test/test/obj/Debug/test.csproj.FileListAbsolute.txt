@@ -1,0 +1,5 @@
+F:\Programming\test\test\bin\Debug\test.exe.config
+F:\Programming\test\test\bin\Debug\test.exe
+F:\Programming\test\test\bin\Debug\test.pdb
+F:\Programming\test\test\obj\Debug\test.exe
+F:\Programming\test\test\obj\Debug\test.pdb

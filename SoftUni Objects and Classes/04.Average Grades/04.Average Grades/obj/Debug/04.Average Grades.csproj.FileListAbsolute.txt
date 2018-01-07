@@ -1,0 +1,7 @@
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\bin\Debug\04.Average Grades.exe.config
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\bin\Debug\04.Average Grades.exe
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\bin\Debug\04.Average Grades.pdb
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.csprojResolveAssemblyReference.cache
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.csproj.CoreCompileInputs.cache
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.exe
+F:\Programming Stuff\SoftUni Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.pdb

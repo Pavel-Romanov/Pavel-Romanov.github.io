@@ -1,0 +1,6 @@
+F:\Programming\Switch\Switch\bin\Debug\Switch.exe.config
+F:\Programming\Switch\Switch\obj\Debug\Switch.csprojResolveAssemblyReference.cache
+F:\Programming\Switch\Switch\bin\Debug\Switch.exe
+F:\Programming\Switch\Switch\bin\Debug\Switch.pdb
+F:\Programming\Switch\Switch\obj\Debug\Switch.exe
+F:\Programming\Switch\Switch\obj\Debug\Switch.pdb

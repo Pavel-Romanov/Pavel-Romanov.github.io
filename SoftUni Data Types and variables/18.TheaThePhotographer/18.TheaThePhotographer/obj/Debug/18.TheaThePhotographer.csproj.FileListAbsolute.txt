@@ -1,0 +1,5 @@
+F:\Programming Stuff\SoftUni Data Types and variables\18.TheaThePhotographer\18.TheaThePhotographer\bin\Debug\18.TheaThePhotographer.exe.config
+F:\Programming Stuff\SoftUni Data Types and variables\18.TheaThePhotographer\18.TheaThePhotographer\bin\Debug\18.TheaThePhotographer.exe
+F:\Programming Stuff\SoftUni Data Types and variables\18.TheaThePhotographer\18.TheaThePhotographer\bin\Debug\18.TheaThePhotographer.pdb
+F:\Programming Stuff\SoftUni Data Types and variables\18.TheaThePhotographer\18.TheaThePhotographer\obj\Debug\18.TheaThePhotographer.exe
+F:\Programming Stuff\SoftUni Data Types and variables\18.TheaThePhotographer\18.TheaThePhotographer\obj\Debug\18.TheaThePhotographer.pdb

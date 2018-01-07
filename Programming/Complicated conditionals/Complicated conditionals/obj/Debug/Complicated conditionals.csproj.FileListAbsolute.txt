@@ -1,0 +1,6 @@
+F:\Programming\Complicated conditionals\Complicated conditionals\bin\Debug\Complicated conditionals.exe.config
+F:\Programming\Complicated conditionals\Complicated conditionals\obj\Debug\Complicated conditionals.csprojResolveAssemblyReference.cache
+F:\Programming\Complicated conditionals\Complicated conditionals\bin\Debug\Complicated conditionals.exe
+F:\Programming\Complicated conditionals\Complicated conditionals\bin\Debug\Complicated conditionals.pdb
+F:\Programming\Complicated conditionals\Complicated conditionals\obj\Debug\Complicated conditionals.exe
+F:\Programming\Complicated conditionals\Complicated conditionals\obj\Debug\Complicated conditionals.pdb

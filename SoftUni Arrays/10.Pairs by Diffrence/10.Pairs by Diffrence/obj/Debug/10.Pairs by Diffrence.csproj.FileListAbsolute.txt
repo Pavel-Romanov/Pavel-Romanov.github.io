@@ -1,0 +1,6 @@
+c:\users\rumen\source\repos\10.Pairs by Diffrence\10.Pairs by Diffrence\bin\Debug\10.Pairs by Diffrence.exe.config
+c:\users\rumen\source\repos\10.Pairs by Diffrence\10.Pairs by Diffrence\bin\Debug\10.Pairs by Diffrence.exe
+c:\users\rumen\source\repos\10.Pairs by Diffrence\10.Pairs by Diffrence\bin\Debug\10.Pairs by Diffrence.pdb
+c:\users\rumen\source\repos\10.Pairs by Diffrence\10.Pairs by Diffrence\obj\Debug\10.Pairs by Diffrence.csproj.CoreCompileInputs.cache
+c:\users\rumen\source\repos\10.Pairs by Diffrence\10.Pairs by Diffrence\obj\Debug\10.Pairs by Diffrence.exe
+c:\users\rumen\source\repos\10.Pairs by Diffrence\10.Pairs by Diffrence\obj\Debug\10.Pairs by Diffrence.pdb

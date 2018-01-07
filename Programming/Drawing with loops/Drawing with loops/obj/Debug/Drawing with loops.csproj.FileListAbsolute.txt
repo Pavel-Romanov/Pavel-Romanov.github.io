@@ -1,0 +1,6 @@
+F:\Programming\Drawing with loops\Drawing with loops\bin\Debug\Drawing with loops.exe.config
+F:\Programming\Drawing with loops\Drawing with loops\obj\Debug\Drawing with loops.csprojResolveAssemblyReference.cache
+F:\Programming\Drawing with loops\Drawing with loops\bin\Debug\Drawing with loops.exe
+F:\Programming\Drawing with loops\Drawing with loops\bin\Debug\Drawing with loops.pdb
+F:\Programming\Drawing with loops\Drawing with loops\obj\Debug\Drawing with loops.exe
+F:\Programming\Drawing with loops\Drawing with loops\obj\Debug\Drawing with loops.pdb
